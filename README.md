@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a project called Never Again.
-- 🌱 I’m currently learning Advance flutter stuff.
+- 🔭 I’m currently writing on a Book.
+- 🌱 I’m currently learning Advance flutter and python stuff.
 - 👯 I’m looking to collaborate on my app idea.
 - 🤔 I’m looking for help with online courses.
 - 💬 Ask me about intermediate flutter stuff.
