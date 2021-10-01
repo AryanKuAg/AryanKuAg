@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently writing on a Book.
-- 🌱 I’m currently learning Advance flutter and python stuff.
+- 🔭 I’m currently working for my new website.
+- 🌱 I’m currently practicing flamenco rumba with my guitar and maintaining a discipline with my time table.
 - 👯 I’m looking to collaborate on my app idea.
 - 🤔 I’m looking for help with online courses.
 - 💬 Ask me about intermediate flutter stuff.
