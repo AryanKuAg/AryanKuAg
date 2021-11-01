@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-
-
 - 🔭 I’m currently working for my new website.
 - 🌱 I’m currently practicing flamenco rumba with my guitar and maintaining a discipline with my time table.
-- 👯 I’m looking to collaborate on my app idea.
-- 🤔 I’m looking for help with online courses.
+- 👯 I’m looking to collaborate on my Projects.
 - 💬 Ask me about intermediate flutter stuff.
-- 📫 How to reach me: [Instagram-Alemantrixaryanagrawal](https://www.instagram.com/alemantrixaryanagrawal/) | [Discord-Alemantrix's Server](https://discord.gg/ZY3zhrC) .
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I will distroy this planet soon🌍.
 
+## Get in touch
+
+Bio Link: <a href = "https://bio.link/alemantrix">ALEMANTRIX</a>
+
+<a href = "mailto:alemantrixaryan@gmail.com@gmail.com">
+  <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
+
+<a target="_blank" href="https://www.linkedin.com/in/aryan-agrawal-0832041a5/">
+  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
+
+<a target="_blank" href="http://instagram.com/alemantrixaryanagrawal">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="auto" height="50px"> 
+
+<a target="_blank" href="https://discord.gg/3g3WX7T">
+  <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="auto" height="50px">
+
+<a target="_blank" href="https://play.google.com/store/apps/dev?id=6599416506079077514">
+  <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-logo-google-play-game-google-play-store-app-00.jpg" width="auto" height="50px">
+
+  
+  
 ## Technologies
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1572B6)
@@ -29,4 +44,5 @@
 ![](https://img.shields.io/badge/Design-AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0A232F)
 
+## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=AryanKuAg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
