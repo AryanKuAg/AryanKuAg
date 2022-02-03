@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Competitive Programming Problems.
+- 🔭 I’m currently working on Blockchain, solidity and Competitive Programming Problems.
 - 🌱 I’m currently practicing Tremolo and malaguena with my guitar and maintaining a discipline with my time table.
 - 👯 I’m looking to collaborate on my Projects.
 - 💬 Ask me about intermediate flutter, python and C++ stuff.
