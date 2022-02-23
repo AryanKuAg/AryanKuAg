@@ -24,7 +24,14 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 <a target="_blank" href="https://play.google.com/store/apps/dev?id=6599416506079077514">
   <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-logo-google-play-game-google-play-store-app-00.jpg" width="auto" height="50px">
 
-  
+<a target="_blank" href="https://twitter.com/alemantrix">
+  <img src="https://abs.twimg.com/favicons/twitter.2.ico" width="auto" height="50px">
+
+<a target="_blank" href="https://www.freecodecamp.org/alemantrix">
+  <img src="https://www.freecodecamp.org/favicon-32x32.png" width="auto" height="50px">
+
+<a target="_blank" href="https://cssbattle.dev/player/alemantrix">
+  <img src="https://cssbattle.dev/images/logo-square.png" width="auto" height="50px">
   
 ## Technologies
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E34F26)
