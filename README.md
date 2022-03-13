@@ -1,5 +1,5 @@
 <h1 align="left">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aryan Agrawal</h1>
-
+<img  src="./programming_gif.gif" height="290px" align="right" />
 - 🔭 I’m currently working on Blockchain, solidity and Competitive Programming Problems.
 - 🌱 I’m currently practicing Tremolo and malaguena with my guitar and maintaining a discipline with my time table.
 - 👯 I’m looking to collaborate on my Projects.
