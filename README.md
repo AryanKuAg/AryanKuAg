@@ -12,7 +12,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 <a href = "mailto:alemantrixaryan@gmail.com@gmail.com">
   <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
 
-<a target="_blank" href="https://www.linkedin.com/in/aryan-agrawal-0832041a5/">
+<a target="_blank" href="https://www.linkedin.com/in/alemantrix">
   <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
 
 <a target="_blank" href="http://instagram.com/alemantrixaryanagrawal">
