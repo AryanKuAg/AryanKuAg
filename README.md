@@ -4,7 +4,7 @@
 - 🌱 I’m currently practicing Tremolo and malaguena with my guitar and maintaining a discipline with my time table.<br />
 - 👯 I’m looking to collaborate on my Projects.<br />
 - 💬 Ask me about intermediate flutter, python and C++ stuff.<br />
-
+ 
 ## Get in touch
 
 My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
@@ -63,7 +63,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 ![](https://img.shields.io/badge/Design-AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5DA2)
 
-## My GitHub Stats
+## My GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=AryanKuAg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankuag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
