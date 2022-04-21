@@ -69,4 +69,4 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankuag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://data.typeracer.com/pit/profile?user=alemantrix&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=alemantrix" border="0" alt="TypeRacer.com scorecard for user alemantrix"/></a> 
   
-           
+               
