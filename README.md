@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Blockchain, solidity and Competitive Programming Problems.<br />
 - 🌱 I’m currently practicing Tremolo and malaguena with my guitar and maintaining a discipline with my time table.<br />
 - 👯 I’m looking to collaborate on my Projects.<br />
-- 💬 Ask me about intermediate flutter, python and C++ stuff.<br />
+- 💬 Ask me about intermediate flutter, python and C++ stuff.<br /> 
  
 ## Get in touch
 
