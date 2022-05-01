@@ -28,7 +28,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
   <img src="https://abs.twimg.com/favicons/twitter.2.ico" width="auto" height="50px">
 
 <a target="_blank" href="https://www.freecodecamp.org/alemantrix">
-  <img src="https://www.freecodecamp.org/favicon-32x32.png" width="auto" height="50px">
+  <img src="https://www.freecodecamp.org/favicon-32x32.png" width="auto" height="50px"> 
 
 <a target="_blank" href="https://cssbattle.dev/player/alemantrix">
   <img src="https://cssbattle.dev/images/logo-square.png" width="auto" height="50px">
