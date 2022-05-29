@@ -1,5 +1,4 @@
 <h1 align="left">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aryan Agrawal</h1>
-
 <img  src="./programming_gif.gif" height="240px" align="right" />
 
 - 🔭 I’m currently working on Blockchain, solidity and Competitive Programming Problems.<br />   
@@ -65,7 +64,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 ![](https://img.shields.io/badge/Design-AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5DA2)
 
-## My GitHub Status  
+## My GitHub Status
 <img src="https://github-readme-stats.vercel.app/api?username=AryanKuAg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankuag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
