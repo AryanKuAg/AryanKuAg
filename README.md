@@ -45,7 +45,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 ![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=50BBD7)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6c37)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2981b9)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DBD0C0)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DBD0C0)         
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=212121)
 ![](https://img.shields.io/badge/Tool-Chrome-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B91646)
 ![](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=539e43)
