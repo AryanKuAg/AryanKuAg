@@ -63,7 +63,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F7C52B)
 ![](https://img.shields.io/badge/Design-AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5DA2)
-
+                            
 ## My GitHub Status                                          
 <img src="https://github-readme-stats.vercel.app/api?username=AryanKuAg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
                                 
