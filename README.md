@@ -18,7 +18,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 
 <a target="_blank" href="http://instagram.com/alemantrixaryanagrawal">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="auto" height="50px"> 
-
+                                                                             
 <a target="_blank" href="https://discord.gg/U5CGK5bQS7">                        
   <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="auto" height="50px">
 
