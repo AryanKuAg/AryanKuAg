@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on my Projects.<br />
 - 💬 Ask me about intermediate flutter, python and C++ stuff.<br />   
   
-## Get in touch.       
+## Get in touch.                                                                                     
 
 My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>                   
                                      
