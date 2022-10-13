@@ -35,35 +35,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
   <img src="https://cssbattle.dev/images/logo-square.png" width="auto" height="50px">
    
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=7952B3)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=539e43)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
-![](https://img.shields.io/badge/PackageManager-NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E02401)
-![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=50BBD7)
-![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6c37)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2981b9)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=DBD0C0)         
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=212121)
-![](https://img.shields.io/badge/Tool-Chrome-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B91646)
-![](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=539e43)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00589c)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00589c)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1C0C5B)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0864A7)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=367CF7)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F0A500)
-![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=367CF7)
-![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=7952B3)
-![](https://img.shields.io/badge/Library-ReactJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=50BBD7)
-![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E84E31)
-![](https://img.shields.io/badge/Website-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F7C52B)
-![](https://img.shields.io/badge/Design-AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=001D34)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5DA2)
+[![My Skills](https://skillicons.dev/icons?i=atom,aws,bash,bootstrap,c,cpp,codepen,css,dart,docker,dynamodb,express,figma,firebase,flutter,gcp,git,github,heroku,html,js,linux,materialui,mongodb,netlify,nextjs,nodejs,powershell,py,react,redux,regex,tailwind,vscode,xd)](https://skillicons.dev)
                             
 ## My GitHub Status                                          
 <img src="https://github-readme-stats.vercel.app/api?username=AryanKuAg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
