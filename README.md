@@ -1,10 +1,10 @@
 <h1 align="left">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Aryan Agrawal</h1>                                                                                                                                                                
 <img  src="./programming_gif.gif" height="240px" align="right" />                                                                                               
                                        
-- 🔭 I’m currently working on Blockchain, solidity and Competitive Programming Problems.<br />   
-- 🌱 I’m currently practicing Tremolo and malaguena with my guitar and maintaining a discipline with my time table.<br />
-- 👯 I’m looking to collaborate on my Projects.<br />
-- 💬 Ask me about intermediate flutter, python and C++ stuff.<br />   
+- 🎯 I’m currently working on my company Settyl and trying to get better in problem solving.<br />   
+- 🥲 I’m trying to do other hobbies but not getting enough time to do so. I want to Play Guitar, Swimming, Chess, Dance and wanna be famous on Instagram.<br />
+- 🥹 I just want ki God always mere saath rahe.<br />
+- 💬 Ask me about my feelings.<br />   
   
 ## Get in touch.                                                                                     
 
