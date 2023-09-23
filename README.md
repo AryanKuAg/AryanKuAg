@@ -37,7 +37,7 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,aws,azure,bash,bootstrap,c,cpp,codepen,css,dart,docker,dynamodb,express,figma,firebase,flutter,gcp,git,github,heroku,html,js,kubernetes,linux,materialui,mongodb,netlify,nextjs,nginx,nodejs,powershell,py,react,redux,regex,tailwind,vscode,xd)](https://skillicons.dev)
 
- # My Codewars Badge:
+ ## My Codewars Badge:
  ![image](https://www.codewars.com/users/AryanKuAg/badges/large)    
                             
 ## My GitHub Status                                          
