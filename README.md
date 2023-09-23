@@ -36,12 +36,13 @@ My Portfolio: <a href = "https://bit.ly/3k6CiSC">ARYAN AGRAWAL</a>
    
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,aws,azure,bash,bootstrap,c,cpp,codepen,css,dart,docker,dynamodb,express,figma,firebase,flutter,gcp,git,github,heroku,html,js,kubernetes,linux,materialui,mongodb,netlify,nextjs,nginx,nodejs,powershell,py,react,redux,regex,tailwind,vscode,xd)](https://skillicons.dev)
+
+# My Codewars Badge:
+![image](https://www.codewars.com/users/AryanKuAg/badges/large)    
                             
 ## My GitHub Status                                          
 <img src="https://github-readme-stats.vercel.app/api?username=AryanKuAg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
                                 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankuag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://data.typeracer.com/pit/profile?user=alemantrix&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=alemantrix" border="0" alt="TypeRacer.com scorecard for user alemantrix"/></a> 
-  
-# My Codewars Badge:
-![image](https://www.codewars.com/users/AryanKuAg/badges/large)                       
+                     
